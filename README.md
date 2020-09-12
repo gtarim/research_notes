@@ -1,4 +1,4 @@
-# wiki
+# Research Notes
 
 Research topics
 
