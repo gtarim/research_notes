@@ -1,5 +1,3 @@
-# Research Notes
-
 Research topics
 
 Programming
@@ -12,8 +10,9 @@ Programming
 - [ ] Race condition
 - [ ] Design patterns
 - [ ] Atomic variables
-- [ ] Conan io
 - [ ] Git submodules
+- [ ] Cpp template basics
+- [x] Conan io
 
 Linux
 - [ ] Kernel
@@ -38,7 +37,7 @@ Literature
 CVision
 - [ ] Sift
 - [ ] Surf
-- [ ] Hough transform
+- [ ] Median blur
 - [ ] Mser
 - [ ] Remap
 - [ ] Warp affine
@@ -46,23 +45,30 @@ CVision
 - [ ] Warp Rotation
 - [ ] Mesh warp
 - [ ] Gstreamer transform
-- [ ] Gstreamer examples
-- [ ] Hls intro
-- [ ] Hls simple examples
 - [ ] Cuda example
 - [ ] GPU management
 - [ ] OpenGL
+- [ ] Harris corner detection
 - [ ] Opengl
 - [ ] Lens Shift
 - [ ] Keystone correction
 - [ ] Extended python opencv module
+- [x] Gst-plugin
+- [x] Laplacian
+- [x] Sobel
+- [x] Canny
+- [x] Hough transform
+- [x] Erode-Dilate
 
 Projects
-- [ ] Kman cross compile
-- [ ] Roi motion detection
+- [ ] Outsource project
+- [ ] Video stabilization
+- [ ] Object tracking
+- [x] Surround view
+- [x] Kman cross compile
+- [x] Roi motion detection
 
 Cpus
-- [ ] ABI gnuabi
 - [ ] Starvation
 - [ ] Qemu
 - [ ] Arm arch
@@ -76,6 +82,7 @@ Cpus
 - [ ] Volatile memories
 - [ ] Cpu mechanism
 - [ ] Embedded operating systems
+- [x] ABI gnuabi
 - [x] FLOPS
 - [x] LPAE
 - [x] Bounded Buffer Problem
@@ -97,4 +104,3 @@ Cpus
 General
 - [ ] Benford law
 - [ ] Revealjs
-
