@@ -1,10 +1,5 @@
 Research topics programming
 
-Cpp template basics
-- [ ] 
-- [ ] Links:
-https://www.google.com.tr/amp/s/www.geeksforgeeks.org/templates-cpp/amp/
-
 Conan.io
 - [ ] Similar like docker
 - [ ] Python based build required

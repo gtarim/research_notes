@@ -1,3 +1,36 @@
+Research topic cpu
+
+Starvation
+- [ ] Spending lots of time for new task process
+- [ ] Too much Burst time situation
+- [ ] Links:
+https://en.wikipedia.org/wiki/Starvation_(computer_science)
+https://www.geeksforgeeks.org/starvation-and-aging-in-operating-systems/
+
+Volatile memories
+- [ ] Like RAM
+- [ ] Links:
+https://whatis.techtarget.com/definition/volatile-memory
+https://www.geeksforgeeks.org/difference-between-volatile-memory-and-non-volatile-memory/
+https://techterms.com/definition/volatile_memory
+
+PCI-Express
+- [ ] Root port and switch port
+- [ ] Linux support (lspci)
+- [ ] Links:
+https://en.wikipedia.org/wiki/PCI_Express
+https://www.kernel.org/doc/html/latest/PCI/pciebus-howto.html
+https://linuxhint.com/lspci_command/
+
+ABI
+- [ ] Interface between two binary program modules
+- [ ] Interface describes a low-level interface between an application and os
+- [ ] Links:
+https://demirten.gitbooks.io/gomulu-linux/content/cross-compile/
+https://en.wikipedia.org/wiki/Application_binary_interface
+https://stackoverflow.com/questions/26692065/difference-between-arm-eabi-arm-gnueabi-and-gnueabi-hf-compilers
+https://topic.alibabacloud.com/a/cross-compiler-differences-between-arm-linux-gnueabi-and-arm-linux-gnueabihf_1_16_30213106.html?admitad_uid=044a7b5e0390ab9406ee01de77a29f7b&admitad_pubid=442763
+
 FLOPS
 - [ ] Computer performance on floating point aritmetics
 - [ ] Floating point operations per second
@@ -54,8 +87,6 @@ VFP-VFPU
 https://stackoverflow.com/questions/4097034/arm-cortex-a8-whats-the-difference-between-vfp-and-neon
 https://en.wikipedia.org/wiki/Floating-point_unit#:~:text=A%20floating%2Dpoint%20unit%20(FPU,%2C%20division%2C%20and%20square%20root.
 
-
-
 ISA
 - [ ] Stack, Accumulator, GPR
 - [ ] Simple Model Short instructions
@@ -92,7 +123,6 @@ https://courses.cs.washington.edu/courses/cse466/10au/pdfs/lectures/07-arm_overv
 https://www.youtube.com/watch?v=gPBsoOefyUk&list=PLc2rvfiptPSRVUXgbhJl6KUjd61JP9m6N&ab_channel=KGPTalkie
 http://www.davespace.co.uk/arm/introduction-to-arm/registers.html
 
-
 Neon
 - [ ] SIMD
 - [ ] OpencvC++ lib is using
@@ -107,8 +137,6 @@ ALU
 - [ ] Link:
 https://en.wikipedia.org/wiki/Arithmetic_logic_unit
 https://chortle.ccsu.edu/AssemblyTutorial/Chapter-10/ass10_5.html
-
-
 
 Arm64 vs aarch64
 - [ ] AArch64 and ARM64 refer to the same thing

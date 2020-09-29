@@ -1,17 +1,21 @@
 Research topics
 
+Cpp
+- [ ] Constexpr
+- [ ] Template
+- [ ] Lambda
+- [ ] Std::initialize_list
+- [ ] Atomic variables
+- [ ] Design patterns
+- [ ] Heap-stack
+- [ ] boost
+
 Programming
 - [ ] Cpp template
-- [ ] Cppboost
 - [ ] Zeromq
 - [ ] Libuv-ev
-- [ ] C++ template queue
-- [ ] Heap-stack
 - [ ] Race condition
-- [ ] Design patterns
-- [ ] Atomic variables
 - [ ] Git submodules
-- [ ] Cpp template basics
 - [x] Conan io
 
 Linux
@@ -24,6 +28,7 @@ Linux
 - [ ] System kernel signal
 - [ ] Vfs
 - [ ] Network stack
+- [ ] Ethtool
 - [ ] Kernel memory paging
 - [ ] Pcie linux driver usage
 - [ ] System service
@@ -35,11 +40,6 @@ Literature
 - [ ] Mit os course slides
 
 CVision
-- [ ] Sift
-- [ ] Surf
-- [ ] Median blur
-- [ ] Mser
-- [ ] Remap
 - [ ] Warp affine
 - [ ] Warp perspective
 - [ ] Warp Rotation
@@ -48,11 +48,16 @@ CVision
 - [ ] Cuda example
 - [ ] GPU management
 - [ ] OpenGL
-- [ ] Harris corner detection
 - [ ] Opengl
-- [ ] Lens Shift
-- [ ] Keystone correction
 - [ ] Extended python opencv module
+- [x] Surf
+- [x] Sift
+- [x] Lens Shift
+- [x] Keystone correction
+- [x] Remap
+- [x] Median blur
+- [x] Mser
+- [x] Harris corner detection
 - [x] Gst-plugin
 - [x] Laplacian
 - [x] Sobel
@@ -60,28 +65,20 @@ CVision
 - [x] Hough transform
 - [x] Erode-Dilate
 
-Projects
-- [ ] Outsource project
-- [ ] Video stabilization
-- [ ] Object tracking
-- [x] Surround view
-- [x] Kman cross compile
-- [x] Roi motion detection
-
 Cpus
-- [ ] Starvation
 - [ ] Qemu
 - [ ] Arm arch
 - [ ] Risc5
-- [ ] Pcie
 - [ ] LP64, LLP64, IL32
 - [ ] Cpu thread assignment
 - [ ] Gnu
 - [ ] Sysroot meaning
 - [ ] Cpu vs Thread 
-- [ ] Volatile memories
 - [ ] Cpu mechanism
 - [ ] Embedded operating systems
+- [x] Starvation
+- [x] Volatile memories
+- [x] Pcie
 - [x] ABI gnuabi
 - [x] FLOPS
 - [x] LPAE
