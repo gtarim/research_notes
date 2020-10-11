@@ -1,21 +1,25 @@
 Research topics
 
 Cpp
-- [ ] Constexpr
 - [ ] Template
+- [ ] Ace
 - [ ] Lambda
 - [ ] Std::initialize_list
+- [ ] std::copy, std::copy_if
 - [ ] Atomic variables
 - [ ] Design patterns
 - [ ] Heap-stack
 - [ ] boost
+- [x] std::count, std::count_if
+- [x] std::distance
+- [x] Std::hex, oct, dec
+- [x] Constexpr
 
 Programming
-- [ ] Cpp template
 - [ ] Zeromq
 - [ ] Libuv-ev
 - [ ] Race condition
-- [ ] Git submodules
+- [x] Git submodules
 - [x] Conan io
 
 Linux
@@ -25,13 +29,14 @@ Linux
 - [ ] Kernel dma
 - [ ] Memory management
 - [ ] Linux fs
-- [ ] System kernel signal
 - [ ] Vfs
 - [ ] Network stack
 - [ ] Ethtool
-- [ ] Kernel memory paging
 - [ ] Pcie linux driver usage
 - [ ] System service
+- [x] Kernel signals
+- [x] Kernel memory paging
+- [x] Alsamixer
 - [x] Raid
 - [x] Program Process vs thread
 
@@ -40,16 +45,15 @@ Literature
 - [ ] Mit os course slides
 
 CVision
-- [ ] Warp affine
-- [ ] Warp perspective
-- [ ] Warp Rotation
 - [ ] Mesh warp
+- [ ] Kalman filter
 - [ ] Gstreamer transform
 - [ ] Cuda example
 - [ ] GPU management
 - [ ] OpenGL
-- [ ] Opengl
+- [ ] OpenCL
 - [ ] Extended python opencv module
+- [x] Warp
 - [x] Surf
 - [x] Sift
 - [x] Lens Shift
@@ -71,11 +75,11 @@ Cpus
 - [ ] Risc5
 - [ ] LP64, LLP64, IL32
 - [ ] Cpu thread assignment
-- [ ] Gnu
-- [ ] Sysroot meaning
 - [ ] Cpu vs Thread 
 - [ ] Cpu mechanism
 - [ ] Embedded operating systems
+- [x] Sysroot
+- [x] Gnu
 - [x] Starvation
 - [x] Volatile memories
 - [x] Pcie
