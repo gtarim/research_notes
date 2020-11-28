@@ -1,5 +1,13 @@
 Research topics programming
 
+Race conditions
+- [ ] Occurs when two or more threads
+- [ ] Obtain and release lock for check and set conditions
+- [ ] Links:
+- https://www.classes.cs.uchicago.edu/archive/2013/spring/12300-1/labs/lab6/
+- https://stackoverflow.com/questions/34510/what-is-a-race-condition#:~:text=A%20race%20condition%20occurs%20when,to%20access%20the%20shared%20data.
+- https://undo.io/resources/debugging-race-conditions-cpp/
+
 Git submodule
 - [ ] Git repo to submodule on another repo
 - [ ] Update working recursively ?

@@ -1,24 +1,62 @@
 Research topics
 
-Cpp
-- [ ] Template
-- [ ] Ace
-- [ ] Lambda
-- [ ] Std::initialize_list
-- [ ] std::copy, std::copy_if
-- [ ] Atomic variables
-- [ ] Design patterns
-- [ ] Heap-stack
-- [ ] boost
+
+Cpp-STL
+- [x] Std::upper_bound
+- [x] Std::lower_bound
+- [x] Std::binary_search
+- [x] Std::priorty_queue
+- [x] Std::multiset
+- [x] Std::multimap
+- [x] Std::pair
+- [x] Std::shared_ptr
+- [x] Std::unique_ptr
+- [x] Std::deque
+- [x] Std::queue
+- [x] Std::unique
+- [x] Std::fill
+- [x] Std::rotate
+- [x] Std::swap
+- [x] Std::all-any-none_of
+- [x] Std::reverse
+- [x] Std::max_element, min_element
+- [x] Std::set
+- [x] Std::stack
+- [x] Std::greater
+- [x] Std::sort
+- [x] Std::initialize_list
+- [x] std::future
+- [x] Std::back_inserter
+- [x] std::copy, std::copy_if
+- [x] Std::accumulate
+- [x] Std::for_each
+- [x] Std::plus
+- [x] Std::transform
+- [x] Std::function
+- [x] std::async
+- [x] Atomic variables
 - [x] std::count, std::count_if
 - [x] std::distance
 - [x] Std::hex, oct, dec
+
+Cpp
+- [ ] Template
+- [ ] Ace
+- [ ] Concepts
+- [ ] Lambda
+- [ ] Semaphore
+- [ ] Design patterns
+- [ ] Heap-stack
+- [ ] boost
 - [x] Constexpr
 
 Programming
 - [ ] Zeromq
-- [ ] Libuv-ev
-- [ ] Race condition
+- [ ] Iterative Macros
+- [ ] Libuv
+- [ ] Libev
+- [ ] Compiler parse tree
+- [x] Race condition
 - [x] Git submodules
 - [x] Conan io
 
@@ -43,6 +81,13 @@ Linux
 Literature
 - [ ] Avionic software standards DO178BC
 - [ ] Mit os course slides
+- [ ] Arinc 653-664-429
+- [ ] Posix pse51-52-53
+- [ ] Autosar
+- [ ] Do-178C
+- [ ] Benford law
+- [ ] Revealjs
+- [ ] Camera f value and Focal length
 
 CVision
 - [ ] Mesh warp
@@ -77,7 +122,6 @@ Cpus
 - [ ] Cpu thread assignment
 - [ ] Cpu vs Thread 
 - [ ] Cpu mechanism
-- [ ] Embedded operating systems
 - [x] Sysroot
 - [x] Gnu
 - [x] Starvation
@@ -102,6 +146,4 @@ Cpus
 - [x] Deadlock os
 - [x] L1-2-3 caching
 
-General
-- [ ] Benford law
-- [ ] Revealjs
+
